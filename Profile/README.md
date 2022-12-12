@@ -16,7 +16,11 @@ In view of this inconvenience, we tried to create a service that provides price 
 
 This Figure is our projects' System Architecture. Django-Rest-Framework were used to make API for NUGU speaker and crawling fresh product platform's price data. Twilio were used to send SMS to users. And Apache Airflow were used to make automates data preprocessing by sklearn scalers, predicting by Keras LSTM models, loading data to AWS RDS.
 
-![SE](https://user-images.githubusercontent.com/105668696/206977142-79e730b1-2826-4595-b7bb-664f55826bef.png)
+![SE](https://user-images.githubusercontent.com/105668696/206977142-79e730b1-2826-4595-b7bb-664f55826bef.png) <br><br>
+
+### 🎨 Service Scenario <br><br>
+
+![SS](https://user-images.githubusercontent.com/105668696/206984908-82dd5a6b-1cd2-49ac-bd9a-4cee5c68c6e4.jpg) <br><br>
 
 ### 🔗 Links <br><br>
 
