@@ -6,7 +6,12 @@ Fresh product delivery services have continued to increase as non-face-to-face d
 
 In view of this inconvenience, we tried to create a service that provides price comparison information through NUGU speakers and mobile phone SMS, which are the most eaisest to access. As a price comparison brand, representative brands of the three fresh product delivery companies (Coupang Gomgom, Market Kurly KF365, SSG FRESH), which account for approximately 90% of Korea, were selected. In addition, we tried to compare the average prices of marts and markets provided by KAMIS. Fresh products included in the top 30 foods with high domestic consumption were selected by the Ministry of Food and Drug Safety as the targets for the service products provided. In addition to comparing prices, the average prices of marts and markets provided by KAMIS are predicted, so that consumers can easily determine when to purchase and make more economical consumption possible. <br><br>
 
-### 🙂 Members
+### 🙂 Members <br><br>
+1) Kim Kwang-Yeon( AI, NUGU Play Builder ) <br>
+2) Kim Bong-Kyun( Bakcend, NUGU Play Builder ) <br>
+3) Kim Jin-Hyeok( AI, Backend ) <br>
+4) Choi Hyun-Ji( Data collection and processing ) <br>
+
 
 
 
