@@ -10,7 +10,11 @@ In view of this inconvenience, we tried to create a service that provides price 
 1) Kim Kwang-Yeon( AI, NUGU Play Builder ) <br>
 2) Kim Bong-Kyun( Bakcend, NUGU Play Builder ) <br>
 3) Kim Jin-Hyeok( AI, Backend ) <br>
-4) Choi Hyun-Ji( Data collection and processing ) <br>
+4) Choi Hyun-Ji( Data collection and processing ) <br><br>
+
+### 🔧 System Architecture <br><br>
+
+This Figure is our projects' System Architecture. Django-Rest-Framework were used to make API for NUGU speaker and crawling fresh product platform's price data. Twilio were used to send SMS to users. And Apache Airflow were used to make automates data preprocessing by sklearn scalers, predicting by Keras models, loading data to AWS RDS.
 
 ![SE](https://user-images.githubusercontent.com/105668696/206977142-79e730b1-2826-4595-b7bb-664f55826bef.png)
 
