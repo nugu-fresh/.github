@@ -24,9 +24,13 @@ Check our projects more in this Links. <br>
 
 1) Demo Video: 
 https://www.youtube.com/watch?v=fzl2BOfI1dI
-
-2) Presentation Video <br>
-[![Presentation](http://img.youtube.com/vi/0pBlOsXddXQ/0.jpg)](https://youtu.be/0pBlOsXddXQ?t=0s)
+<br>
+2) Presentation Video:
+https://www.youtube.com/watch?v=0pBlOsXddXQ
+<br>
+3) Notion: 
+https://www.notion.so/nugufresh/NUGU-FRESH-b4bbb92f9b824ae8981a2749756df816
+<br>
 
 
 
