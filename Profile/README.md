@@ -18,6 +18,13 @@ This Figure is our projects' System Architecture. Django-Rest-Framework were use
 
 ![SE](https://user-images.githubusercontent.com/105668696/206977142-79e730b1-2826-4595-b7bb-664f55826bef.png)
 
+### 🔗 Links <br><br>
+
+Check our projects more in this Links. <br>
+
+1) Demo Video
+[![Video Label](http://img.youtube.com/vi/fzl2BOfI1dI/0.jpg)](https://youtu.be/fzl2BOfI1dI?t=0s)
+
 
 
 
