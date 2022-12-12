@@ -23,7 +23,10 @@ This Figure is our projects' System Architecture. Django-Rest-Framework were use
 Check our projects more in this Links. <br>
 
 1) Demo Video <br>
-[![Video Label](http://img.youtube.com/vi/fzl2BOfI1dI/0.jpg)](https://youtu.be/fzl2BOfI1dI?t=0s)
+[![Demo](http://img.youtube.com/vi/fzl2BOfI1dI/0.jpg)](https://youtu.be/fzl2BOfI1dI?t=0s)
+
+2) Presentation Video 
+[![Presentation](http://img.youtube.com/vi/0pBlOsXddXQ/0.jpg)](https://youtu.be/0pBlOsXddXQ?t=0s)
 
 
 
