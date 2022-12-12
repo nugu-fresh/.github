@@ -12,7 +12,7 @@ In view of this inconvenience, we tried to create a service that provides price 
 3) Kim Jin-Hyeok( AI, Backend ) <br>
 4) Choi Hyun-Ji( Data collection and processing ) <br>
 
-
+(https://user-images.githubusercontent.com/105668696/206977142-79e730b1-2826-4595-b7bb-664f55826bef.png)
 
 
 
