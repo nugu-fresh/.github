@@ -18,7 +18,7 @@ This Figure is our projects' System Architecture. Django-Rest-Framework were use
 
 ![SE](https://user-images.githubusercontent.com/105668696/206977142-79e730b1-2826-4595-b7bb-664f55826bef.png) <br><br>
 
-### 🎨 Service Scenario <br><br>
+### 🎨 Service Scenario <br>
 
 ![SS](https://user-images.githubusercontent.com/105668696/206984908-82dd5a6b-1cd2-49ac-bd9a-4cee5c68c6e4.jpg) <br><br>
 For more details, please refer our demo video.
